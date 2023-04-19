@@ -11,8 +11,8 @@
 								
 								<ul class="footer-links">
 									<li><a href="#"><i class="fa fa-map-marker"></i>address</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>9846372444</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>abc@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>8888004444</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>balncehaga@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
